@@ -2,7 +2,7 @@
 id: 27
 title: 一試難忘的印度咖哩 - 馬薩拉 Tikka Masala Sauce
 date: 2014-09-11
-permalink: /%e5%8d%b0%e5%ba%a6%e5%92%96%e5%93%a9-%e9%a6%ac%e8%96%a9%e6%8b%89-tikka-masala-sauce/
+url: /%e5%8d%b0%e5%ba%a6%e5%92%96%e5%93%a9-%e9%a6%ac%e8%96%a9%e6%8b%89-tikka-masala-sauce/
 hero_image: IMG_3118.jpg
 tags:
   - 咖喱
