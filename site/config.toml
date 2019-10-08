@@ -10,8 +10,6 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-toc = true
-
 [permalinks]
   post = "/:title/"
 
@@ -36,4 +34,4 @@ toc = true
   body_classes = "avenir bg-white"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
-
+  toc = true
