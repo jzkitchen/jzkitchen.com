@@ -11,7 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:title/"
 
 [sitemap]
   changefreq = "monthly"
