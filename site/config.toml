@@ -34,3 +34,4 @@ enableRobotsTXT = true
   body_classes = "avenir bg-white"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+  toc = true
